@@ -1,6 +1,8 @@
 # FLASH
 Federated Learning for Combined Algorithm and Hyper parameter optimization
 
+The simplest version of FLASH in terms of coding complexity is FLASH-C, please check that to understand the overall concept.
+
 Function wise description
   *** 'Clf_param_api' : it is the space of HPs for HyperOPT.
   *** 'Clf_parameter_names': Contains the names of all the HPs to change in HPO (Although a bit redundant, only Clf_param_api can be used).
